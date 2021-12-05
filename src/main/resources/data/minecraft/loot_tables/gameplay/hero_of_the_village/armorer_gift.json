@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "newexp:chelmet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "newexp:cchestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "newexp:cleggings"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "newexp:cboots"
+        }
+      ]
+    }
+  ]
+}
