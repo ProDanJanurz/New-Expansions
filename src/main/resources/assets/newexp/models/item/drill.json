@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "newexp:tools/drill"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "scale": [ 1, 1, 1 ],
+      "rotation": [ 90, -90, 90 ],
+      "translation": [ 0, 5, 0 ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [ 1, 1, 1 ],
+      "rotation": [ -90, 90, -270 ],
+      "translation": [ 0, 5, 0 ]
+    }
+  }
+}
