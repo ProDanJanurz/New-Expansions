@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#g#",
+    "gDg",
+    "#g#"
+  ],
+  "key": {
+    "#": {
+      "tag": "newexp:endite"
+    },
+    "g": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "newexp:endite_ingot",
+    "count": 1
+  },
+  "group": "endite"
+}

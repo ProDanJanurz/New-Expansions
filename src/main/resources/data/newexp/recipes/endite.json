@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "newexp:endite_block"
+    }
+  },
+  "result": {
+    "item": "newexp:endite_ingot",
+    "count": 9
+  }
+}

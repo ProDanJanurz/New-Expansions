@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "nnn",
+    "n n"
+  ],
+  "key": {
+    "n": {
+      "item": "newexp:endite_ingot"
+    }
+  },
+  "result": {
+    "item": "newexp:ehelmet",
+    "count": 1
+  }
+}

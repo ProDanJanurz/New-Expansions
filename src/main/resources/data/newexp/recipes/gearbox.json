@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B#B",
+    "AAA",
+    "B#B"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:copper_block"
+    },
+    "A": {
+      "item": "newexp:gears"
+    },
+    "B": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "newexp:gearbox",
+    "count": 1
+  }
+}
