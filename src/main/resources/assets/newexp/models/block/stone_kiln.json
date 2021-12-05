@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "newexp:bloki/stone_kiln_top",
+    "front": "newexp:bloki/stone_kiln_front",
+    "side": "newexp:bloki/stone_kiln_side"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "newexp:bloki/supplies_block_top",
+    "side": "newexp:bloki/supplies_block"
+  }
+}
