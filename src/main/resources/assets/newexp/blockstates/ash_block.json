@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "newexp:block/ash_block" }
+  }
+}
