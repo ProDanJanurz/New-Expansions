@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "newexp:tools/dsword",
+    "layer1": "newexp:upgrades/esword_overlay"
+  }
+}
