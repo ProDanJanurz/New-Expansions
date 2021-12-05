@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "W",
+    "P"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dandelion"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "newexp:bandage",
+    "count": 1
+  }
+}

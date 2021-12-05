@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "nnn",
+    "n n"
+  ],
+  "key": {
+    "n": {
+      "item": "newexp:iron_rings"
+    }
+  },
+  "result": {
+    "item": "newexp:chelmet",
+    "count": 1
+  }
+}

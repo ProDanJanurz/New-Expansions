@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "BAA",
+    " D "
+  ],
+  "key": {
+    "A": {
+      "item": "newexp:gearbox"
+    },
+    "B": {
+      "item": "newexp:drill_head"
+    },
+    "C": {
+      "item": "newexp:drill_handle"
+    },
+    "D": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "newexp:drill",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "n n",
+    "n n"
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "newexp:bboots",
+    "count": 1
+  }
+}

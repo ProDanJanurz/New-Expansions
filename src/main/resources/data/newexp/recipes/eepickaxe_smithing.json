@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "newexp:epickaxe"
+  },
+  "addition": {
+    "item": "newexp:endite_ingot"
+  },
+  "result": {
+    "item": "newexp:eepickaxe"
+  }
+}

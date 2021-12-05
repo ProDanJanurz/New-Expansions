@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "nnn",
+    "n n",
+    "n n"
+  ],
+  "key": {
+    "n": {
+      "item": "newexp:iron_rings"
+    }
+  },
+  "result": {
+    "item": "newexp:cleggings",
+    "count": 1
+  }
+}
