@@ -24,7 +24,7 @@ public class NewexpMedkitItem extends Item {
         b = user.getMaxHealth();
         if(a < b){
             world.playSound((PlayerEntity)null, user.getX(), user.getY(), user.getZ(), NewexpSounds.SMALL_MEDKIT_USE_SOUND, SoundCategory.NEUTRAL, 0.5F, 1.0F);
-            user.getItemCooldownManager().set(this, 3600);
+            user.getItemCooldownManager().set(this, 2400);
             if (!world.isClient) {
                 c = user.getHealth() + 6;
                 user.setHealth(c);
