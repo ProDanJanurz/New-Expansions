@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:wshovel",
+    "newexp:sshovel",
+    "newexp:ishovel",
+    "newexp:bshovel",
+    "newexp:gshovel",
+    "newexp:dshovel",
+    "newexp:nshovel",
+    "newexp:eshovel",
+    "newexp:ggshovel",
+    "newexp:gdshovel",
+    "newexp:gnshovel",
+    "newexp:geshovel",
+    "newexp:dgshovel",
+    "newexp:ddshovel",
+    "newexp:dnshovel",
+    "newexp:deshovel",
+    "newexp:ngshovel",
+    "newexp:ndshovel",
+    "newexp:nnshovel",
+    "newexp:neshovel",
+    "newexp:egshovel",
+    "newexp:edshovel",
+    "newexp:enshovel",
+    "newexp:eeshovel",
+    "newexp:drill"
+  ]
+}
