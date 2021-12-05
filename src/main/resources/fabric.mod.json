@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "newexp",
+  "version": "1.0.0",
+
+  "name": "New Expansions",
+  "description": "A small mod that breaks everything XD. If you want to know what it does check out the wiki.",
+  "authors": [
+    "Pro__Dan",
+    "Pradawny",
+    "Artain - contributor",
+    "stylGotycki - wiki creator"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC BY-NC-SA 4.0",
+  "icon": "assets/newexp/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.pro__group.new_expansions.NewExpansions"
+    ],
+    "client": [
+      "com.pro__group.new_expansions.client.NewexpClient"
+    ]
+  },
+  "mixins": [
+    "newexp.mixins.json"
+  ],
+  "accessWidener" : "newexp.accesswidener",
+
+  "depends": {
+    "fabricloader": ">=0.12.0",
+    "fabric": "*",
+    "minecraft": "1.18.x"
+  },
+  "suggests": {
+    "another-mod": ""
+  }
+}
