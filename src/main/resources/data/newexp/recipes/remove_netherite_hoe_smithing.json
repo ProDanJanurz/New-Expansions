@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "newexp:nhoe"
+  },
+  "addition": {
+    "tag": "newexp:tools"
+  },
+  "result": {
+    "item": "newexp:nhoe"
+  }
+}

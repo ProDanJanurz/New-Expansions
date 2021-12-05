@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "newexp:dhelmet"
+  },
+  "addition": {
+    "tag": "newexp:tools"
+  },
+  "result": {
+    "item": "newexp:dhelmet"
+  }
+}

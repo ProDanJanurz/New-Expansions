@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #I",
+    "#H#",
+    "i# "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "H": {
+      "item": "minecraft:honey_bottle"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "newexp:syringe",
+    "count": 1
+  }
+}

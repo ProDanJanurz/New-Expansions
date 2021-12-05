@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "newexp:dchestplate"
+  },
+  "addition": {
+    "tag": "newexp:tools"
+  },
+  "result": {
+    "item": "newexp:dchestplate"
+  }
+}

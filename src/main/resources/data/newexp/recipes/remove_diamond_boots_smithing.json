@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "tag": "newexp:dboots"
+  },
+  "addition": {
+    "tag": "newexp:tools"
+  },
+  "result": {
+    "item": "newexp:dboots"
+  }
+}
