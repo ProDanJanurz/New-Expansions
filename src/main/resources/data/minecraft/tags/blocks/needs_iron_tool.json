@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:sulfur_ore",
+    "newexp:sulfur_block"
+  ]
+}
