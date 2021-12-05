@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:geboots",
+    "newexp:deboots",
+    "newexp:neboots",
+    "newexp:eeboots"
+  ]
+}

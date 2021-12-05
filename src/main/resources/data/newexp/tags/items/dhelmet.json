@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:gdhelmet",
+    "newexp:ddhelmet",
+    "newexp:ndhelmet",
+    "newexp:edhelmet"
+  ]
+}

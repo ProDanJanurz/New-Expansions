@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:gnpickaxe",
+    "newexp:dnpickaxe",
+    "newexp:nnpickaxe",
+    "newexp:enpickaxe"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:geshovel",
+    "newexp:deshovel",
+    "newexp:neshovel",
+    "newexp:eeshovel"
+  ]
+}

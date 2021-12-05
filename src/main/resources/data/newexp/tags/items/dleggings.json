@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:gdleggings",
+    "newexp:ddleggings",
+    "newexp:ndleggings",
+    "newexp:edleggings"
+  ]
+}

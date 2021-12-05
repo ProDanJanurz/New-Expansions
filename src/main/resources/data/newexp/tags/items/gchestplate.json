@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:ggchestplate",
+    "newexp:dgchestplate",
+    "newexp:ngchestplate",
+    "newexp:egchestplate"
+  ]
+}

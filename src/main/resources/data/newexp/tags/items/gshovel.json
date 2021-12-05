@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:ggshovel",
+    "newexp:dgshovel",
+    "newexp:ngshovel",
+    "newexp:egshovel"
+  ]
+}
