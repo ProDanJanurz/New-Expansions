@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "newexp:netherite_statue"
+  },
+  "result": "minecraft:netherite_scrap",
+  "experience": 5,
+  "cookingtime": 200,
+  "group": "netherite"
+}
