@@ -44,16 +44,16 @@ public enum NewexpArmorMaterials implements ArmorMaterial {
     }),
     //upgrades
     //gold
-    GG("gold", 6, new int[]{2, 5, 7, 2}, 40, SoundEvents.ITEM_ARMOR_EQUIP_GOLD, 2.0F, 0.25F, () -> {
+    GG("gold", 6, new int[]{2, 5, 7, 2}, 40, SoundEvents.ITEM_ARMOR_EQUIP_GOLD, 2.0F, 0.3F, () -> {
         return Ingredient.ofItems(Items.GOLD_INGOT);
     }),
-    GD("diamond", 24, new int[]{3, 6, 8, 3}, 20, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 2.0F, 0.05F, () -> {
+    GD("diamond", 24, new int[]{3, 6, 8, 3}, 20, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 2.0F, 0.1F, () -> {
         return Ingredient.ofItems(Items.DIAMOND);
     }),
-    GN("netherite", 64, new int[]{3, 6, 8, 3}, 30, SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 3.0F, 0.15F, () -> {
+    GN("netherite", 64, new int[]{3, 6, 8, 3}, 30, SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 3.0F, 0.2F, () -> {
         return Ingredient.ofItems(Items.NETHERITE_INGOT);
     }),
-    GE("endite", 16, new int[]{3, 6, 8, 3}, 25, SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 1.0F, 0.15F, () -> {
+    GE("endite", 16, new int[]{3, 6, 8, 3}, 25, SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 1.0F, 0.2F, () -> {
         return Ingredient.ofItems(NewexpItems.ENDITE_INGOT);
     }),
     //diamond
