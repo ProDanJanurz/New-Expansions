@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "newexp:tools/dleggings",
-    "layer1": "newexp:upgrades/eleggings_overlay"
-  }
-}

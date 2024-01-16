@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "newexp:tools/nhelmet",
-    "layer1": "newexp:upgrades/nhelmet_overlay"
-  }
-}

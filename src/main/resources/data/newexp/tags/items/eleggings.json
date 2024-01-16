@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "newexp:geleggings",
-    "newexp:deleggings",
-    "newexp:neleggings",
-    "newexp:eeleggings"
-  ]
-}

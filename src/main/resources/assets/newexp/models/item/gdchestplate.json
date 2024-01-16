@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "newexp:tools/dchestplate",
-    "layer1": "newexp:upgrades/gchestplate_overlay"
-  }
-}

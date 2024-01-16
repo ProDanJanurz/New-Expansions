@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "newexp:gnsword",
-    "newexp:dnsword",
-    "newexp:nnsword",
-    "newexp:ensword"
-  ]
-}

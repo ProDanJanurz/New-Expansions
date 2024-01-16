@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "newexp:tools/dboots",
-    "layer1": "newexp:upgrades/gboots_overlay"
-  }
-}

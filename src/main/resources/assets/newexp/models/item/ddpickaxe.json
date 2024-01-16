@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "newexp:tools/dpickaxe",
-    "layer1": "newexp:upgrades/dpickaxe_overlay"
-  }
-}

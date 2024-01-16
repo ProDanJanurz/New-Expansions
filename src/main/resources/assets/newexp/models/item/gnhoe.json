@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "newexp:tools/nhoe",
-    "layer1": "newexp:upgrades/ghoe_overlay"
-  }
-}

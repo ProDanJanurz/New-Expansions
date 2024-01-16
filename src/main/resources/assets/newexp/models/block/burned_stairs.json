@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "newexp:bloki/burned_planks",
-    "top": "newexp:bloki/burned_planks",
-    "side": "newexp:bloki/burned_planks"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "newexp:raw_reneferite"
-  },
-  "result": "newexp:refined_reneferite",
-  "experience": 10,
-  "cookingtime": 400
-}
