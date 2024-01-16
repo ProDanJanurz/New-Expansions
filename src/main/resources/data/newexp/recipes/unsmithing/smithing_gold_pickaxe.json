@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "base": {
+    "tag": "newexp:smithing/gold_pickaxe"
+  },
+  "result": {
+    "item": "minecraft:golden_pickaxe"
+  },
+  "template": {
+    "tag": "newexp:tools"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " 11",
+    "321",
+    "33 "
+  ],
+  "key": {
+    "1": {
+      "item": "newexp:elder_guardian_spike"
+    },
+    "2": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "3": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:trident",
+    "count": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_copper_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:planks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:crafting_table"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_copper_ingot",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "newexp:misc/gunpowder",
+      "newexp:misc/xp_bottle",
+      "newexp:misc/nether_paper",
+      "newexp:misc/iron_rings",
+      "newexp:misc/gears",
+      "newexp:misc/gearbox",
+      "newexp:misc/drill_head",
+      "newexp:misc/drill_handle",
+      "newexp:misc/steel_handle",
+      "newexp:misc/blaze_handle",
+      "newexp:misc/chorus_handle",
+      "newexp:misc/sulfur",
+      "newexp:misc/endite",
+      "newexp:misc/endite_ingot",
+      "newexp:misc/emerald_nugget",
+      "newexp:misc/diamond_nugget",
+      "newexp:misc/netherite_nugget",
+      "newexp:misc/endite_nugget",
+      "newexp:misc/treasure_iron_to_nugget",
+      "newexp:misc/treasure_gold_to_nugget",
+      "newexp:misc/treasure_emerald_to_nugget",
+      "newexp:misc/treasure_diamond_to_nugget",
+      "newexp:misc/treasure_netherite_to_nugget",
+      "newexp:misc/treasure_endite_to_nugget",
+      "newexp:misc/nugget_emerald_ingot",
+      "newexp:misc/nugget_diamond_ingot",
+      "newexp:misc/nugget_netherite_ingot",
+      "newexp:misc/nugget_endite_ingot",
+      "newexp:misc/nugget_gold_con_from_blasting",
+      "newexp:misc/nugget_gold_con_from_smelting",
+      "newexp:misc/nugget_gold_con_to",
+      "newexp:misc/nugget_iron_con_from_blasting",
+      "newexp:misc/nugget_iron_con_from_smelting",
+      "newexp:misc/nugget_iron_con_to",
+      "newexp:misc/netherite_amulet_blast",
+      "newexp:misc/netherite_artifact_blast",
+      "newexp:misc/netherite_statue_blast",
+      "newexp:misc/endite_amulet_blast",
+      "newexp:misc/endite_artifact_blast",
+      "newexp:misc/endite_statue_blast",
+      "newexp:misc/refined_nererite_blast",
+      "newexp:misc/refined_reneferite_blast",
+      "newexp:misc/andesite_quartz_blast",
+      "newexp:misc/diroite_quartz_blast",
+      "newexp:misc/granite_quartz_blast",
+      "newexp:misc/burned_oak_log_smoking",
+      "newexp:misc/gold_upgrade_smithing_tablet",
+      "newexp:misc/diamond_upgrade_smithing_tablet",
+      "newexp:misc/netherite_upgrade_smithing_tablet",
+      "newexp:misc/endite_upgrade_smithing_tablet",
+      "newexp:misc/magnetic_rail"
+    ]
+  },
+  "sends_telemetry_event": false
+}

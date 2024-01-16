@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "X": {
+      "item": "minecraft:gold_ingot"
+    },
+    "A": {
+      "item": "newexp:netherite_nugget"
+    }
+  },
+  "pattern": [
+    "XAX",
+    "X#X",
+    "XRX"
+  ],
+  "result": {
+    "count": 8,
+    "item": "newexp:magnetic_rail"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "base": {
+    "tag": "newexp:smithing/endite_sword"
+  },
+  "result": {
+    "item": "newexp:endite_sword"
+  },
+  "template": {
+    "tag": "newexp:tools"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "newexp:endite_amulet"
+  },
+  "result": "newexp:endite_scrap",
+  "experience": 5,
+  "cookingtime": 200,
+  "group": "endite"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "newexp:endite_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_boots"
+  },
+  "result": {
+    "item": "newexp:endite_enhanced_diamond_boots"
+  },
+  "template": {
+    "item": "newexp:diamond_upgrade_smithing_tablet"
+  }
+}

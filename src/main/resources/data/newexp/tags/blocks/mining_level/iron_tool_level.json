@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "#newexp:iron_derivative_blocks",
+    "#newexp:gilded",
+
+    "minecraft:gold_ore",
+    "minecraft:deepslate_gold_ore",
+    "minecraft:raw_gold_block",
+    "minecraft:nether_gold_ore",
+    "minecraft:emerald_ore",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:lapis_ore",
+    "minecraft:deepslate_lapis_ore",
+    "minecraft:deepslate_iron_ore",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:deepslate_coal_ore",
+
+    "minecraft:deepslate",
+    "minecraft:cobbled_deepslate",
+    "minecraft:cobbled_deepslate_stairs",
+    "minecraft:cobbled_deepslate_slab",
+    "minecraft:cobbled_deepslate_wall"
+  ]
+}

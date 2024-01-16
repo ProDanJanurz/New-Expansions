@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "newexp:endite_ingot"
+  },
+  "base": {
+    "item": "newexp:endite_chestplate"
+  },
+  "result": {
+    "item": "newexp:endite_enhanced_endite_chestplate"
+  },
+  "template": {
+    "item": "newexp:endite_upgrade_smithing_tablet"
+  }
+}

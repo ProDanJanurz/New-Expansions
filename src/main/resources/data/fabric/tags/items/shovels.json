@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:emerald_shovel",
+    "newexp:endite_shovel",
+    "newexp:gold_enhanced_gold_shovel",
+    "newexp:gold_enhanced_diamond_shovel",
+    "newexp:gold_enhanced_netherite_shovel",
+    "newexp:gold_enhanced_endite_shovel",
+    "newexp:diamond_enhanced_gold_shovel",
+    "newexp:diamond_enhanced_diamond_shovel",
+    "newexp:diamond_enhanced_netherite_shovel",
+    "newexp:diamond_enhanced_endite_shovel",
+    "newexp:netherite_enhanced_gold_shovel",
+    "newexp:netherite_enhanced_diamond_shovel",
+    "newexp:netherite_enhanced_netherite_shovel",
+    "newexp:netherite_enhanced_endite_shovel",
+    "newexp:endite_enhanced_gold_shovel",
+    "newexp:endite_enhanced_diamond_shovel",
+    "newexp:endite_enhanced_netherite_shovel",
+    "newexp:endite_enhanced_endite_shovel",
+    "newexp:jeweled_shovel",
+    "newexp:drill"
+  ]
+}

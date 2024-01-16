@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:gold_enhanced_gold_pickaxe",
+    "newexp:diamond_enhanced_gold_pickaxe",
+    "newexp:netherite_enhanced_gold_pickaxe",
+    "newexp:endite_enhanced_gold_pickaxe"
+  ]
+}

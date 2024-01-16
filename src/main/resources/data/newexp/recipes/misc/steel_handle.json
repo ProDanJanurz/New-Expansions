@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  A",
+    " B ",
+    "A  "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:charcoal"
+    }
+  },
+  "result": {
+    "item": "newexp:steel_handle",
+    "count": 2
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "iron_ingot",
+  "key": {
+    "#": {
+      "item": "newexp:iron_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "minecraft:iron_ingot"
+  }
+}

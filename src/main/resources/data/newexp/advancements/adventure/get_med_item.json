@@ -1,0 +1,89 @@
+{
+  "parent": "minecraft:adventure/root",
+  "display": {
+    "icon": {
+      "item": "newexp:bandage"
+    },
+    "title": {
+      "translate": "advancements.adventure.get_med_item.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.get_med_item.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "bandage": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "newexp:bandage"
+            ]
+          }
+        ]
+      }
+    },
+    "syringe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "newexp:syringe"
+            ]
+          }
+        ]
+      }
+    },
+    "splints": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "newexp:splints"
+            ]
+          }
+        ]
+      }
+    },
+    "small_medkit": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "newexp:small_medkit"
+            ]
+          }
+        ]
+      }
+    },
+    "medkit": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "newexp:medkit"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "bandage",
+      "syringe",
+      "splints",
+      "small_medkit",
+      "medkit"
+    ]
+  ]
+}

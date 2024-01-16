@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1,
+  "ingredient": [
+    {
+      "item": "newexp:emerald_pickaxe"
+    },
+    {
+      "item": "newexp:emerald_shovel"
+    },
+    {
+      "item": "newexp:emerald_axe"
+    },
+    {
+      "item": "newexp:emerald_hoe"
+    },
+    {
+      "item": "newexp:emerald_sword"
+    },
+    {
+      "item": "newexp:emerald_helmet"
+    },
+    {
+      "item": "newexp:emerald_chestplate"
+    },
+    {
+      "item": "newexp:emerald_leggings"
+    },
+    {
+      "item": "newexp:emerald_boots"
+    }
+  ],
+  "result": "minecraft:emerald"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "newexp:raw_nererite"
+  },
+  "result": "newexp:refined_nererite",
+  "experience": 10,
+  "cookingtime": 800
+}

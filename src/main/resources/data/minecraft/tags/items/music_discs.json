@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#minecraft:creeper_drop_music_discs",
+    "minecraft:music_disc_pigstep",
+    "minecraft:music_disc_otherside",
+    "minecraft:music_disc_5",
+
+    "newexp:music_disc_the_way",
+    "newexp:music_disc_the_whisper",
+    "newexp:music_disc_residence_of_corruption",
+    "newexp:music_disc_tribal_thought"
+  ]
+}

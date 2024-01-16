@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "group": "emerald_nugget",
+  "ingredients": [
+    {
+      "item": "newexp:emerald_treasure"
+    }
+  ],
+  "result": {
+    "item": "newexp:emerald_nugget",
+    "count": 3
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "tag": "newexp:nether_roots"
+    },
+    {
+      "tag": "newexp:nether_roots"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "newexp:porkchop_special",
+    "count": 1
+  }
+}

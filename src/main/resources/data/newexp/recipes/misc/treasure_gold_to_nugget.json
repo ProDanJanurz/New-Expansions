@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "group": "gold_nugget",
+  "ingredients": [
+    {
+      "item": "newexp:gold_treasure"
+    }
+  ],
+  "result": {
+    "item": "newexp:gold_nugget",
+    "count": 3
+  }
+}

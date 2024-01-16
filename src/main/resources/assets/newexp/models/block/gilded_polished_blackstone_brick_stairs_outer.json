@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "newexp:block/gilded_polished_blackstone_bricks",
+    "top": "newexp:block/gilded_polished_blackstone_bricks",
+    "side": "newexp:block/gilded_polished_blackstone_bricks"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "base": {
+    "tag": "newexp:smithing/netherite_sword"
+  },
+  "result": {
+    "item": "minecraft:netherite_sword"
+  },
+  "template": {
+    "tag": "newexp:tools"
+  }
+}

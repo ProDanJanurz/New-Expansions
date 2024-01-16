@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:jigsaw",
+
+  "start_pool": "newexp:piglin_ruin/start_pool",
+
+  "size": 1,
+
+  "max_distance_from_center": 32,
+
+  "biomes": "#newexp:has_structure/piglin_ruin_biomes",
+
+  "step": "underground_structures",
+
+  "terrain_adaptation": "beard_box",
+
+  "start_height": {
+    "type": "minecraft:uniform",
+    "max_inclusive": { "below_top": 32 },
+    "min_inclusive": { "above_bottom": 32 }
+  },
+
+  "use_expansion_hack": false,
+
+  "spawn_overrides": {}
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "newexp:endite_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "result": {
+    "item": "newexp:endite_enhanced_netherite_pickaxe"
+  },
+  "template": {
+    "item": "newexp:netherite_upgrade_smithing_tablet"
+  }
+}

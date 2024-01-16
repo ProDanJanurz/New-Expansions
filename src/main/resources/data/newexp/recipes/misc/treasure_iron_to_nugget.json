@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "group": "iron_nugget",
+  "ingredients": [
+    {
+      "item": "newexp:iron_treasure"
+    }
+  ],
+  "result": {
+    "item": "newexp:iron_nugget",
+    "count": 3
+  }
+}

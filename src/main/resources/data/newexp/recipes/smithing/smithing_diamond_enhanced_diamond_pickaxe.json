@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "result": {
+    "item": "newexp:diamond_enhanced_diamond_pickaxe"
+  },
+  "template": {
+    "item": "newexp:diamond_upgrade_smithing_tablet"
+  }
+}

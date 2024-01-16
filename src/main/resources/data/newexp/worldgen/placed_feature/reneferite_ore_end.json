@@ -1,0 +1,27 @@
+{
+  "feature": "newexp:reneferite_ore_end",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 2
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "above_bottom": 0
+        },
+        "max_inclusive": {
+          "above_bottom": 20
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

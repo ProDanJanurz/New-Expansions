@@ -1,0 +1,60 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_copper_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:planks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:crafting_table"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_copper_ingot",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "newexp:blocks/burned_planks",
+      "newexp:blocks/burned_slab",
+      "newexp:blocks/burned_stairs",
+      "newexp:blocks/burned_wood",
+      "newexp:blocks/stripped_burned_wood",
+      "newexp:blocks/sulfur_block",
+      "newexp:blocks/endite_block",
+      "newexp:blocks/supplies_block",
+      "newexp:blocks/gcpb_from_gb_stonecutting",
+      "newexp:blocks/gcpb_from_gpb_stonecutting",
+      "newexp:blocks/gpb_from_gb_stonecutting",
+      "newexp:blocks/gpbb_from_gb_stonecutting",
+      "newexp:blocks/gpbb_from_gpb_stonecutting",
+      "newexp:blocks/gpbbsl_from_gb_stonecutting",
+      "newexp:blocks/gpbbsl_from_gpb_stonecutting",
+      "newexp:blocks/gpbbsl_from_gpbb_stonecutting",
+      "newexp:blocks/gpbbst_from_gb_stonecutting",
+      "newexp:blocks/gpbbst_from_gpb_stonecutting",
+      "newexp:blocks/gpbbst_from_gpbb_stonecutting",
+      "newexp:blocks/gpbbw_from_gb_stonecutting",
+      "newexp:blocks/gpbbw_from_gpb_stonecutting",
+      "newexp:blocks/gpbbw_from_gpbb_stonecutting",
+      "newexp:blocks/gpbsl_from_gb_stonecutting",
+      "newexp:blocks/gpbsl_from_gpb_stonecutting",
+      "newexp:blocks/gpbst_from_gb_stonecutting",
+      "newexp:blocks/gpbst_from_gpb_stonecutting",
+      "newexp:blocks/gpbw_from_gb_stonecutting",
+      "newexp:blocks/gpbw_from_gpb_stonecutting"
+    ]
+  },
+  "sends_telemetry_event": false
+}

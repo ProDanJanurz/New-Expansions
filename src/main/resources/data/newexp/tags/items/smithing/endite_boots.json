@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:gold_enhanced_endite_boots",
+    "newexp:diamond_enhanced_endite_boots",
+    "newexp:netherite_enhanced_endite_boots",
+    "newexp:endite_enhanced_endite_boots"
+  ]
+}

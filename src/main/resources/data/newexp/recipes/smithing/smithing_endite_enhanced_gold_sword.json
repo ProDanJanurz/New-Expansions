@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "newexp:endite_ingot"
+  },
+  "base": {
+    "item": "minecraft:golden_sword"
+  },
+  "result": {
+    "item": "newexp:endite_enhanced_gold_sword"
+  },
+  "template": {
+    "item": "newexp:gold_upgrade_smithing_tablet"
+  }
+}

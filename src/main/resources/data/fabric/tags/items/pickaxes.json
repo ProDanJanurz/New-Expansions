@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:emerald_pickaxe",
+    "newexp:endite_pickaxe",
+    "newexp:gold_enhanced_gold_pickaxe",
+    "newexp:gold_enhanced_diamond_pickaxe",
+    "newexp:gold_enhanced_netherite_pickaxe",
+    "newexp:gold_enhanced_endite_pickaxe",
+    "newexp:diamond_enhanced_gold_pickaxe",
+    "newexp:diamond_enhanced_diamond_pickaxe",
+    "newexp:diamond_enhanced_netherite_pickaxe",
+    "newexp:diamond_enhanced_endite_pickaxe",
+    "newexp:netherite_enhanced_gold_pickaxe",
+    "newexp:netherite_enhanced_diamond_pickaxe",
+    "newexp:netherite_enhanced_netherite_pickaxe",
+    "newexp:netherite_enhanced_endite_pickaxe",
+    "newexp:endite_enhanced_gold_pickaxe",
+    "newexp:endite_enhanced_diamond_pickaxe",
+    "newexp:endite_enhanced_netherite_pickaxe",
+    "newexp:endite_enhanced_endite_pickaxe",
+    "newexp:jeweled_pickaxe",
+    "newexp:drill"
+  ]
+}

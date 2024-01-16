@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "ABA",
+    "   "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:diamond"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "newexp:diamond_upgrade_smithing_tablet",
+    "count": 1
+  }
+}

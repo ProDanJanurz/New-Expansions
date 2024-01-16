@@ -1,0 +1,156 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 5,
+  "ingredient": [
+    {
+      "item": "minecraft:netherite_pickaxe"
+    },
+    {
+      "item": "minecraft:netherite_shovel"
+    },
+    {
+      "item": "minecraft:netherite_axe"
+    },
+    {
+      "item": "minecraft:netherite_hoe"
+    },
+    {
+      "item": "minecraft:netherite_sword"
+    },
+    {
+      "item": "minecraft:netherite_helmet"
+    },
+    {
+      "item": "minecraft:netherite_chestplate"
+    },
+    {
+      "item": "minecraft:netherite_leggings"
+    },
+    {
+      "item": "minecraft:netherite_boots"
+    },
+
+
+
+    {
+      "item": "newexp:gold_enhanced_netherite_pickaxe"
+    },
+    {
+      "item": "newexp:gold_enhanced_netherite_shovel"
+    },
+    {
+      "item": "newexp:gold_enhanced_netherite_axe"
+    },
+    {
+      "item": "newexp:gold_enhanced_netherite_hoe"
+    },
+    {
+      "item": "newexp:gold_enhanced_netherite_sword"
+    },
+    {
+      "item": "newexp:gold_enhanced_netherite_helmet"
+    },
+    {
+      "item": "newexp:gold_enhanced_netherite_chestplate"
+    },
+    {
+      "item": "newexp:gold_enhanced_netherite_leggings"
+    },
+    {
+      "item": "newexp:gold_enhanced_netherite_boots"
+    },
+
+
+
+    {
+      "item": "newexp:diamond_enhanced_netherite_pickaxe"
+    },
+    {
+      "item": "newexp:diamond_enhanced_netherite_shovel"
+    },
+    {
+      "item": "newexp:diamond_enhanced_netherite_axe"
+    },
+    {
+      "item": "newexp:diamond_enhanced_netherite_hoe"
+    },
+    {
+      "item": "newexp:diamond_enhanced_netherite_sword"
+    },
+    {
+      "item": "newexp:diamond_enhanced_netherite_helmet"
+    },
+    {
+      "item": "newexp:diamond_enhanced_netherite_chestplate"
+    },
+    {
+      "item": "newexp:diamond_enhanced_netherite_leggings"
+    },
+    {
+      "item": "newexp:diamond_enhanced_netherite_boots"
+    },
+
+
+
+    {
+      "item": "newexp:netherite_enhanced_netherite_pickaxe"
+    },
+    {
+      "item": "newexp:netherite_enhanced_netherite_shovel"
+    },
+    {
+      "item": "newexp:netherite_enhanced_netherite_axe"
+    },
+    {
+      "item": "newexp:netherite_enhanced_netherite_hoe"
+    },
+    {
+      "item": "newexp:netherite_enhanced_netherite_sword"
+    },
+    {
+      "item": "newexp:netherite_enhanced_netherite_helmet"
+    },
+    {
+      "item": "newexp:netherite_enhanced_netherite_chestplate"
+    },
+    {
+      "item": "newexp:netherite_enhanced_netherite_leggings"
+    },
+    {
+      "item": "newexp:netherite_enhanced_netherite_boots"
+    },
+
+
+
+    {
+      "item": "newexp:endite_enhanced_netherite_pickaxe"
+    },
+    {
+      "item": "newexp:endite_enhanced_netherite_shovel"
+    },
+    {
+      "item": "newexp:endite_enhanced_netherite_axe"
+    },
+    {
+      "item": "newexp:endite_enhanced_netherite_hoe"
+    },
+    {
+      "item": "newexp:endite_enhanced_netherite_sword"
+    },
+    {
+      "item": "newexp:endite_enhanced_netherite_helmet"
+    },
+    {
+      "item": "newexp:endite_enhanced_netherite_chestplate"
+    },
+    {
+      "item": "newexp:endite_enhanced_netherite_leggings"
+    },
+    {
+      "item": "newexp:endite_enhanced_netherite_boots"
+    }
+  ],
+  "result": "minecraft:netherite_ingot"
+}

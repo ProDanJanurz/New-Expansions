@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "newexp:sulfur"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 4
+  }
+}

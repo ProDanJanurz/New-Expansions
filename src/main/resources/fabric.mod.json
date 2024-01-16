@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "newexp",
+  "version": "${version}",
+
+  "name": "New Expansions",
+  "description": "A small mod that breaks everything XD. If you want to know what it does check out the wiki.",
+  "authors": [
+    "Pro__Dan",
+    "Pradawny",
+    "stylGotycki - wiki creator"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/new-expansions",
+    "issues": "https://github.com/ProDanJanurz/New-Expansions/issues",
+    "sources": "https://github.com/ProDanJanurz/New-Expansions"
+  },
+  "license": "CC BY-NC-SA 4.0",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.new_expansions.NewExpansions"
+    ],
+    "client": [
+      "net.new_expansions.NewexpClient"
+    ]
+  },
+  "mixins": [
+    "newexp.mixins.json",
+    {
+      "config": "newexp.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "accessWidener" : "newexp.accesswidener",
+
+  "depends": {
+    "fabricloader": ">=0.15.0",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": ""
+  }
+}

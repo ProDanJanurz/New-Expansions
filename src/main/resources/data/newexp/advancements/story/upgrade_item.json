@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:story/mine_diamond",
+  "display": {
+    "icon": {
+      "item": "newexp:gold_enhanced_diamond_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.story.upgrade_item.title"
+    },
+    "description": {
+      "translate": "advancements.story.upgrade_item.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "upgrade_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "newexp:upgrades"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "upgrade_item"
+    ]
+  ]
+}

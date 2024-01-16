@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#/#",
+    "# #",
+    "#/#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bamboo"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "newexp:splints",
+    "count": 1
+  }
+}

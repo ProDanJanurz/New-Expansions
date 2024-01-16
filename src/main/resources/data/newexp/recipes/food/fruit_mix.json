@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:melon_slice"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "newexp:fruit_mix",
+    "count": 1
+  }
+}

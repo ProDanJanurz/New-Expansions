@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "group": "endite_ingot",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "newexp:endite_block"
+    }
+  },
+  "result": {
+    "item": "newexp:endite_ingot",
+    "count": 9
+  }
+}

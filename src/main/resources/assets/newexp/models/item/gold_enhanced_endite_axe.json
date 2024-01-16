@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "newexp:item/upgrades/gold_enhanced_endite_axe"
+  }
+}

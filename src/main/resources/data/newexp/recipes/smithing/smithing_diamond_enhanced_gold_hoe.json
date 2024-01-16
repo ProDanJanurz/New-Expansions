@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "base": {
+    "item": "minecraft:golden_hoe"
+  },
+  "result": {
+    "item": "newexp:diamond_enhanced_gold_hoe"
+  },
+  "template": {
+    "item": "newexp:gold_upgrade_smithing_tablet"
+  }
+}

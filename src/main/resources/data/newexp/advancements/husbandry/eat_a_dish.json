@@ -1,0 +1,145 @@
+{
+  "parent": "minecraft:husbandry/plant_seed",
+  "display": {
+    "icon": {
+      "item": "newexp:stuffed_chicken"
+    },
+    "title": {
+      "translate": "advancements.husbandry.eat_a_dish.title"
+    },
+    "description": {
+      "translate": "advancements.husbandry.eat_a_dish.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "mushroom_stew": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:mushroom_stew"
+          ]
+        }
+      }
+    },
+    "rabbit_stew": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:rabbit_stew"
+          ]
+        }
+      }
+    },
+    "beetroot_soup": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:beetroot_soup"
+          ]
+        }
+      }
+    },
+    "bone_stock": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "newexp:bone_stock"
+          ]
+        }
+      }
+    },
+    "fish_soup": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "newexp:fish_soup"
+          ]
+        }
+      }
+    },
+    "stuffed_chicken": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "newexp:stuffed_chicken"
+          ]
+        }
+      }
+    },
+    "fruit_mix": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "newexp:fruit_mix"
+          ]
+        }
+      }
+    },
+    "potato_salad": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "newexp:potato_salad"
+          ]
+        }
+      }
+    },
+    "meaty_stew": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "newexp:meaty_stew"
+          ]
+        }
+      }
+    },
+    "nether_salad": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "newexp:nether_salad"
+          ]
+        }
+      }
+    },
+    "porkchop_special": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "newexp:porkchop_special"
+          ]
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "mushroom_stew",
+      "rabbit_stew",
+      "beetroot_soup",
+      "bone_stock",
+      "fish_soup",
+      "stuffed_chicken",
+      "fruit_mix",
+      "potato_salad",
+      "meaty_stew",
+      "nether_salad",
+      "porkchop_special"
+    ]
+  ]
+}

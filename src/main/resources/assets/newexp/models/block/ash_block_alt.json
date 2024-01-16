@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "newexp:block/ash_block_alt"
+  }
+}

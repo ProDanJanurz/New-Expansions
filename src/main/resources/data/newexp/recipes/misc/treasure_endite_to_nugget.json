@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "group": "endite_nugget",
+  "ingredients": [
+    {
+      "item": "newexp:endite_treasure"
+    }
+  ],
+  "result": {
+    "item": "newexp:endite_nugget",
+    "count": 3
+  }
+}

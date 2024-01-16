@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#",
+    "W",
+    "P"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:crimson_fungus"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "newexp:bandage",
+    "count": 1
+  },
+  "group": "bandage"
+}

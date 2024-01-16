@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "newexp:block/stripped_burned_wood"
+    },
+    "axis=z": {
+      "model": "newexp:block/stripped_burned_wood",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "newexp:block/stripped_burned_wood",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

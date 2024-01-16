@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "newexp:pillager_resource_point",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 641917264,
+    "spacing": 64,
+    "separation": 48,
+    "type": "minecraft:random_spread"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "group": "netherite_ingot",
+  "pattern": [
+    "#g#",
+    "gDg",
+    "#g#"
+  ],
+  "key": {
+    "#": {
+      "tag": "newexp:netherite"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_ingot",
+    "count": 1
+  }
+}

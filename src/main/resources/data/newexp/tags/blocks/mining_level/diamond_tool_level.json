@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:reneferite_ore",
+    "newexp:endite_block",
+    "newexp:enchanted_netherite_statue",
+
+    "minecraft:diamond_block",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:respawn_anchor",
+    "minecraft:ancient_debris"
+  ]
+}

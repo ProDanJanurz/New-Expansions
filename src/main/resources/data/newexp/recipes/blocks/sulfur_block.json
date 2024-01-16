@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "newexp:sulfur"
+    }
+  },
+  "result": {
+    "item": "newexp:sulfur_block",
+    "count": 1
+  }
+}

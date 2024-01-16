@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:dandelion"
+    },
+    {
+      "item": "minecraft:bone"
+    },
+    {
+      "item": "minecraft:bone"
+    },
+    {
+      "item": "minecraft:bone"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "newexp:bone_stock",
+    "count": 1
+  },
+  "group": "bone_stock"
+}

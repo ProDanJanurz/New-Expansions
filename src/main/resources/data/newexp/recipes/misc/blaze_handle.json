@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  A",
+    " A ",
+    "A  "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "newexp:blaze_handle",
+    "count": 2
+  }
+}

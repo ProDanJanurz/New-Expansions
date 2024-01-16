@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:andesite"
+  },
+  "result": "minecraft:quartz",
+  "experience": 0.2,
+  "cookingtime": 100,
+  "group": "quartz"
+}

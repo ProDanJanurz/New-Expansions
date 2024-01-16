@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "newexp:endite_helmet"
+  },
+  "result": {
+    "item": "newexp:netherite_enhanced_endite_helmet"
+  },
+  "template": {
+    "item": "newexp:endite_upgrade_smithing_tablet"
+  }
+}

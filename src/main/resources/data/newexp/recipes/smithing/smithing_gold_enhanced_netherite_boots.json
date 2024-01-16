@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_boots"
+  },
+  "result": {
+    "item": "newexp:gold_enhanced_netherite_boots"
+  },
+  "template": {
+    "item": "newexp:netherite_upgrade_smithing_tablet"
+  }
+}

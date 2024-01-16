@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:gilded_blackstone",
+    "newexp:gilded_polished_blackstone",
+    "newexp:gilded_polished_blackstone_stairs",
+    "newexp:gilded_polished_blackstone_slab",
+    "newexp:gilded_polished_blackstone_wall",
+    "newexp:gilded_polished_blackstone_bricks",
+    "newexp:gilded_polished_blackstone_brick_stairs",
+    "newexp:gilded_polished_blackstone_brick_slab",
+    "newexp:gilded_polished_blackstone_brick_wall",
+    "newexp:gilded_chiseled_polished_blackstone"
+  ]
+}

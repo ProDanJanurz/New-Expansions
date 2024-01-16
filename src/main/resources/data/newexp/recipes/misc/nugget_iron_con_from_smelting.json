@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 0.1,
+  "group": "in",
+  "ingredient": {
+    "item": "minecraft:iron_nugget"
+  },
+  "result": "newexp:iron_nugget"
+}

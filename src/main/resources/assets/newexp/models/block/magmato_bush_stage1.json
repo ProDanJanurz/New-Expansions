@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "newexp:block/magmato_bush_stage1"
+  }
+}

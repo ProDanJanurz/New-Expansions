@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "newexp:piglin_ruin",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 281063829,
+    "spacing": 12,
+    "separation": 6,
+    "type": "minecraft:random_spread"
+  }
+}

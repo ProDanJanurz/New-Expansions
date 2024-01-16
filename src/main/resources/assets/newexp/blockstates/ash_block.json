@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [{ "model": "newexp:block/ash_block" },
+      { "model": "newexp:block/ash_block_alt" },
+      { "model": "newexp:block/ash_block","y": 90 },
+      { "model": "newexp:block/ash_block_alt","y": 90 },
+      { "model": "newexp:block/ash_block","y": 180 },
+      { "model": "newexp:block/ash_block_alt","y": 180 },
+      { "model": "newexp:block/ash_block","y": 270 },
+      { "model": "newexp:block/ash_block_alt","y": 270 }]
+  }
+}

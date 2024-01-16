@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "group": "iron_nugget",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "newexp:iron_nugget"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:story/mine_stone",
+  "criteria": {
+    "copper_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "newexp:copper_pickaxe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.story.upgrade_tools.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "newexp:copper_pickaxe",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.story.upgrade_tools.title"
+    }
+  },
+  "requirements": [
+    [
+      "copper_pickaxe"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:nether/loot_bastion",
+  "display": {
+    "icon": {
+      "item": "newexp:enchanted_netherite_statue"
+    },
+    "title": {
+      "translate": "advancements.nether.get_statue.title"
+    },
+    "description": {
+      "translate": "advancements.nether.get_statue.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 2500
+  },
+  "criteria": {
+    "get_statue": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "newexp:enchanted_netherite_statue"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_statue"
+    ]
+  ]
+}

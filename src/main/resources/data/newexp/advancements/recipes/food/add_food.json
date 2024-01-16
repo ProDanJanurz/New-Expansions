@@ -1,0 +1,53 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_copper_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:planks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:crafting_table"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_copper_ingot",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "newexp:food/bone_stock",
+      "newexp:food/bone_stock_alt",
+      "newexp:food/fish_soup",
+      "newexp:food/fruit_mix",
+      "newexp:food/stuffed_chicken",
+      "newexp:food/meaty_stew",
+      "newexp:food/potato_salad",
+      "newexp:food/nether_salad",
+      "newexp:food/porkchop_special",
+      "newexp:food/milk_icecream",
+      "newexp:food/chocolate_icecream",
+      "newexp:food/honey_icecream",
+      "minecraft:rabbit_stew",
+      "minecraft:mushroom_stew",
+      "minecraft:beetroot_soup",
+      "newexp:food/bandage",
+      "newexp:food/bandage_alt",
+      "newexp:food/syringe",
+      "newexp:food/splints",
+      "newexp:food/small_medkit",
+      "newexp:food/medkit"
+    ]
+  },
+  "sends_telemetry_event": false
+}

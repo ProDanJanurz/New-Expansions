@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:gold_enhanced_gold_helmet",
+    "newexp:diamond_enhanced_gold_helmet",
+    "newexp:netherite_enhanced_gold_helmet",
+    "newexp:endite_enhanced_gold_helmet"
+  ]
+}

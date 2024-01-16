@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "group": "netherite_nugget",
+  "ingredients": [
+    {
+      "item": "newexp:netherite_treasure"
+    }
+  ],
+  "result": {
+    "item": "newexp:netherite_nugget",
+    "count": 3
+  }
+}

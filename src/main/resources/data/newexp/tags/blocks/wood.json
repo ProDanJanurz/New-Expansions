@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:logs",
+    "newexp:burned_log",
+    "newexp:burned_wood"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_hoe"
+  },
+  "result": {
+    "item": "newexp:netherite_enhanced_diamond_hoe"
+  },
+  "template": {
+    "item": "newexp:diamond_upgrade_smithing_tablet"
+  }
+}

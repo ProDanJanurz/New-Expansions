@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "base": {
+    "item": "minecraft:golden_pickaxe"
+  },
+  "result": {
+    "item": "newexp:gold_enhanced_gold_pickaxe"
+  },
+  "template": {
+    "item": "newexp:gold_upgrade_smithing_tablet"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "newexp:item/upgrades/diamond_enhanced_endite_chestplate"
+  }
+}

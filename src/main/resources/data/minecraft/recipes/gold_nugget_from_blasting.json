@@ -1,0 +1,159 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "minecraft:golden_pickaxe"
+    },
+    {
+      "item": "minecraft:golden_shovel"
+    },
+    {
+      "item": "minecraft:golden_axe"
+    },
+    {
+      "item": "minecraft:golden_hoe"
+    },
+    {
+      "item": "minecraft:golden_sword"
+    },
+    {
+      "item": "minecraft:golden_helmet"
+    },
+    {
+      "item": "minecraft:golden_chestplate"
+    },
+    {
+      "item": "minecraft:golden_leggings"
+    },
+    {
+      "item": "minecraft:golden_boots"
+    },
+    {
+      "item": "minecraft:golden_horse_armor"
+    },
+
+
+
+    {
+      "item": "newexp:gold_enhanced_gold_pickaxe"
+    },
+    {
+      "item": "newexp:gold_enhanced_gold_shovel"
+    },
+    {
+      "item": "newexp:gold_enhanced_gold_axe"
+    },
+    {
+      "item": "newexp:gold_enhanced_gold_hoe"
+    },
+    {
+      "item": "newexp:gold_enhanced_gold_sword"
+    },
+    {
+      "item": "newexp:gold_enhanced_gold_helmet"
+    },
+    {
+      "item": "newexp:gold_enhanced_gold_chestplate"
+    },
+    {
+      "item": "newexp:gold_enhanced_gold_leggings"
+    },
+    {
+      "item": "newexp:gold_enhanced_gold_boots"
+    },
+
+
+
+    {
+      "item": "newexp:diamond_enhanced_gold_pickaxe"
+    },
+    {
+      "item": "newexp:diamond_enhanced_gold_shovel"
+    },
+    {
+      "item": "newexp:diamond_enhanced_gold_axe"
+    },
+    {
+      "item": "newexp:diamond_enhanced_gold_hoe"
+    },
+    {
+      "item": "newexp:diamond_enhanced_gold_sword"
+    },
+    {
+      "item": "newexp:diamond_enhanced_gold_helmet"
+    },
+    {
+      "item": "newexp:diamond_enhanced_gold_chestplate"
+    },
+    {
+      "item": "newexp:diamond_enhanced_gold_leggings"
+    },
+    {
+      "item": "newexp:diamond_enhanced_gold_boots"
+    },
+
+
+
+    {
+      "item": "newexp:netherite_enhanced_gold_pickaxe"
+    },
+    {
+      "item": "newexp:netherite_enhanced_gold_shovel"
+    },
+    {
+      "item": "newexp:netherite_enhanced_gold_axe"
+    },
+    {
+      "item": "newexp:netherite_enhanced_gold_hoe"
+    },
+    {
+      "item": "newexp:netherite_enhanced_gold_sword"
+    },
+    {
+      "item": "newexp:netherite_enhanced_gold_helmet"
+    },
+    {
+      "item": "newexp:netherite_enhanced_gold_chestplate"
+    },
+    {
+      "item": "newexp:netherite_enhanced_gold_leggings"
+    },
+    {
+      "item": "newexp:netherite_enhanced_gold_boots"
+    },
+
+
+
+    {
+      "item": "newexp:endite_enhanced_gold_pickaxe"
+    },
+    {
+      "item": "newexp:endite_enhanced_gold_shovel"
+    },
+    {
+      "item": "newexp:endite_enhanced_gold_axe"
+    },
+    {
+      "item": "newexp:endite_enhanced_gold_hoe"
+    },
+    {
+      "item": "newexp:endite_enhanced_gold_sword"
+    },
+    {
+      "item": "newexp:endite_enhanced_gold_helmet"
+    },
+    {
+      "item": "newexp:endite_enhanced_gold_chestplate"
+    },
+    {
+      "item": "newexp:endite_enhanced_gold_leggings"
+    },
+    {
+      "item": "newexp:endite_enhanced_gold_boots"
+    }
+  ],
+  "result": "minecraft:gold_ingot"
+}

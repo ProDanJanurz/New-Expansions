@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "newexp:block/gilded_polished_blackstone",
+    "top": "newexp:block/gilded_polished_blackstone",
+    "side": "newexp:block/gilded_polished_blackstone"
+  }
+}

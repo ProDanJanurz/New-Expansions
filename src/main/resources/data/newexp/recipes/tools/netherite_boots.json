@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "n n",
+    "n n"
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_boots",
+    "count": 1
+  }
+}

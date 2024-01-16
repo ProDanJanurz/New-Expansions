@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "newexp:item/upgrades/endite_enhanced_diamond_hoe"
+  }
+}

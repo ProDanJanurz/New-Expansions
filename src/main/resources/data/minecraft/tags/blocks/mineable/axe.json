@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:supplies_block",
+    "newexp:burned_log",
+    "newexp:burned_wood",
+    "newexp:stripped_burned_log",
+    "newexp:stripped_burned_wood",
+    "newexp:burned_planks",
+    "newexp:burned_slab",
+    "newexp:burned_stairs"
+  ]
+}

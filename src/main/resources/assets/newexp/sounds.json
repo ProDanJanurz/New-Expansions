@@ -1,0 +1,101 @@
+{
+  "music_disc.the_way": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "newexp:records/the_way",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.the_whisper": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "newexp:records/the_whisper",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.residence_of_corruption": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "newexp:records/residence_of_corruption",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.tribal_thought": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "newexp:records/tribal_thought",
+        "stream": true
+      }
+    ]
+  },
+  "music.the_beginning": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "newexp:music/the_beginning",
+        "stream": true
+      }
+    ]
+  },
+  "music.war_blizzard": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "newexp:music/war_blizzard",
+        "stream": true
+      }
+    ]
+  },
+  "music.leaf_dance": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "newexp:music/leaf_dance",
+        "stream": true
+      }
+    ]
+  },
+  "enchanted_netherite_statue.attack": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "newexp:block/statue_attack",
+        "stream": true
+      }
+    ]
+  },
+  "bandage.use": {
+    "category": "item",
+    "sounds": [
+      {
+        "name": "newexp:item/bandage_use",
+        "stream": true
+      }
+    ]
+  },
+  "syringe.use": {
+    "category": "item",
+    "sounds": [
+      {
+        "name": "newexp:item/syringe_use",
+        "stream": true
+      }
+    ]
+  },
+  "small_medkit.use": {
+    "category": "item",
+    "sounds": [
+      {
+        "name": "newexp:item/small_medkit_use",
+        "stream": true
+      }
+    ]
+  }
+}

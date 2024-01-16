@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "newexp:endite_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "result": {
+    "item": "newexp:endite_enhanced_netherite_shovel"
+  },
+  "template": {
+    "item": "newexp:netherite_upgrade_smithing_tablet"
+  }
+}

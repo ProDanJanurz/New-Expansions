@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "base": {
+    "item": "newexp:endite_leggings"
+  },
+  "result": {
+    "item": "newexp:gold_enhanced_endite_leggings"
+  },
+  "template": {
+    "item": "newexp:endite_upgrade_smithing_tablet"
+  }
+}

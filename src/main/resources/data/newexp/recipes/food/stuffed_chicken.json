@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:cooked_chicken"
+    },
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "newexp:stuffed_chicken",
+    "count": 1
+  }
+}

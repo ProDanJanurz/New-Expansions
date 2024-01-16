@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:chain",
+    "#minecraft:anvil",
+    "#minecraft:cauldrons",
+    "#minecraft:rails",
+    "minecraft:iron_door",
+    "minecraft:iron_trapdoor",
+    "minecraft:iron_bars",
+    "minecraft:light_weighted_pressure_plate",
+    "minecraft:heavy_weighted_pressure_plate",
+    "minecraft:bell",
+    "minecraft:lantern",
+    "minecraft:soul_lantern",
+    "minecraft:hopper",
+    "minecraft:iron_block"
+  ]
+}

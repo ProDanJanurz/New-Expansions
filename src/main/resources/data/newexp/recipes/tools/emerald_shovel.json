@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "n",
+    "/",
+    "/"
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:emerald"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "newexp:emerald_shovel",
+    "count": 1
+  }
+}

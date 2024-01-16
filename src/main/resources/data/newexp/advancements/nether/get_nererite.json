@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:nether/obtain_ancient_debris",
+  "display": {
+    "icon": {
+      "item": "newexp:raw_nererite"
+    },
+    "title": {
+      "translate": "advancements.nether.get_nererite.title"
+    },
+    "description": {
+      "translate": "advancements.nether.get_nererite.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_nererite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "newexp:raw_nererite",
+              "newexp:refined_nererite"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "get_nererite"
+    ]
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "newexp:block/burned_log",
+    "side": "newexp:block/burned_log"
+  }
+}

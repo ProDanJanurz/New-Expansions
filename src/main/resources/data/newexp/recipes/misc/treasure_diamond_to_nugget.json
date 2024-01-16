@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "group": "diamond_nugget",
+  "ingredients": [
+    {
+      "item": "newexp:diamond_treasure"
+    }
+  ],
+  "result": {
+    "item": "newexp:diamond_nugget",
+    "count": 3
+  }
+}

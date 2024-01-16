@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "newexp:block/enchanted_netherite_statue",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "newexp:block/enchanted_netherite_statue"
+    },
+    "facing=south": {
+      "model": "newexp:block/enchanted_netherite_statue",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "newexp:block/enchanted_netherite_statue",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:golden_helmet",
+    "minecraft:golden_chestplate",
+    "minecraft:golden_leggings",
+    "minecraft:golden_boots",
+
+    "newexp:gold_enhanced_gold_helmet",
+    "newexp:gold_enhanced_gold_chestplate",
+    "newexp:gold_enhanced_gold_leggings",
+    "newexp:gold_enhanced_gold_boots",
+
+    "newexp:diamond_enhanced_gold_helmet",
+    "newexp:diamond_enhanced_gold_chestplate",
+    "newexp:diamond_enhanced_gold_leggings",
+    "newexp:diamond_enhanced_gold_boots",
+
+    "newexp:netherite_enhanced_gold_helmet",
+    "newexp:netherite_enhanced_gold_chestplate",
+    "newexp:netherite_enhanced_gold_leggings",
+    "newexp:netherite_enhanced_gold_boots",
+
+    "newexp:endite_enhanced_gold_helmet",
+    "newexp:endite_enhanced_gold_chestplate",
+    "newexp:endite_enhanced_gold_leggings",
+    "newexp:endite_enhanced_gold_boots",
+
+    "newexp:jeweled_helmet",
+    "newexp:jeweled_chestplate",
+    "newexp:jeweled_leggings",
+    "newexp:jeweled_boots"
+  ]
+}

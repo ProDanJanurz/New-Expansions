@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:gold_enhanced_endite_chestplate",
+    "newexp:diamond_enhanced_endite_chestplate",
+    "newexp:netherite_enhanced_endite_chestplate",
+    "newexp:endite_enhanced_endite_chestplate"
+  ]
+}

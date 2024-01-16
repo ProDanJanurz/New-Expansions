@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#i#",
+    "IPW",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:quartz"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "I": {
+      "item": "newexp:small_medkit"
+    },
+    "P": {
+      "item": "newexp:bandage"
+    },
+    "W": {
+      "item": "newexp:splints"
+    }
+  },
+  "result": {
+    "item": "newexp:medkit",
+    "count": 1
+  }
+}

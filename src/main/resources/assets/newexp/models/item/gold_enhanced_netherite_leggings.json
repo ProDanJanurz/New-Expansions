@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "newexp:item/upgrades/gold_enhanced_netherite_leggings"
+  }
+}

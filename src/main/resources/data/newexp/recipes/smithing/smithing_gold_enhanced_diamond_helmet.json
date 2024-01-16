@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "result": {
+    "item": "newexp:gold_enhanced_diamond_helmet"
+  },
+  "template": {
+    "item": "newexp:diamond_upgrade_smithing_tablet"
+  }
+}

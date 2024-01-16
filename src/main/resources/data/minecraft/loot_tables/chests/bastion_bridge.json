@@ -1,0 +1,413 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 2.0,
+      "bonus_rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:netherite_scrap",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "newexp:netherite_statue",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "newexp:netherite_amulet",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "newexp:netherite_artifact",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "newexp:netherite_tools",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1.0,
+        "max": 1.0
+      },
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ],
+          "name": "newexp:netherite_treasure"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              },
+              "add": true
+            }
+          ],
+          "name": "newexp:gold_treasure"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ],
+          "name": "newexp:diamond_treasure"
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            }
+          ],
+          "name": "minecraft:lodestone"
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1.0,
+        "max": 2.0
+      },
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "type": "minecraft:uniform",
+                "min": 0.1,
+                "max": 0.5
+              }
+            },
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ],
+          "name": "minecraft:crossbow"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 10.0,
+                "max": 28.0
+              }
+            }
+          ],
+          "name": "minecraft:spectral_arrow"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 8.0,
+                "max": 12.0
+              }
+            }
+          ],
+          "name": "minecraft:gilded_blackstone"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 3.0,
+                "max": 8.0
+              }
+            }
+          ],
+          "name": "minecraft:crying_obsidian"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            }
+          ],
+          "name": "minecraft:gold_block"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4.0,
+                "max": 9.0
+              }
+            }
+          ],
+          "name": "minecraft:gold_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4.0,
+                "max": 9.0
+              }
+            }
+          ],
+          "name": "minecraft:iron_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            }
+          ],
+          "name": "minecraft:golden_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            },
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ],
+          "name": "minecraft:golden_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            },
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ],
+          "name": "minecraft:golden_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            },
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ],
+          "name": "minecraft:golden_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            },
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ],
+          "name": "minecraft:golden_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0
+            },
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ],
+          "name": "minecraft:golden_axe"
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 2.0,
+        "max": 4.0
+      },
+      "bonus_rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 6.0
+              }
+            }
+          ],
+          "name": "minecraft:string"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              }
+            }
+          ],
+          "name": "minecraft:leather"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 5.0,
+                "max": 17.0
+              }
+            }
+          ],
+          "name": "minecraft:arrow"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4.0,
+                "max": 12.0
+              }
+            }
+          ],
+          "name": "newexp:iron_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4.0,
+                "max": 12.0
+              }
+            }
+          ],
+          "name": "newexp:gold_nugget"
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 11
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:snout_armor_trim_smithing_template"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

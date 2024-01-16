@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "HPH",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "H": {
+      "item": "minecraft:hay_block"
+    },
+    "P": {
+      "item": "minecraft:pumpkin"
+    }
+  },
+  "result": {
+    "item": "newexp:supplies_block",
+    "count": 1
+  }
+}

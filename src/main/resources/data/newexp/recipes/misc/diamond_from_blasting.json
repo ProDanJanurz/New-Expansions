@@ -1,0 +1,159 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1,
+  "ingredient": [
+    {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    {
+      "item": "minecraft:diamond_shovel"
+    },
+    {
+      "item": "minecraft:diamond_axe"
+    },
+    {
+      "item": "minecraft:diamond_hoe"
+    },
+    {
+      "item": "minecraft:diamond_sword"
+    },
+    {
+      "item": "minecraft:diamond_helmet"
+    },
+    {
+      "item": "minecraft:diamond_chestplate"
+    },
+    {
+      "item": "minecraft:diamond_leggings"
+    },
+    {
+      "item": "minecraft:diamond_boots"
+    },
+    {
+      "item": "minecraft:diamond_horse_armor"
+    },
+
+
+
+    {
+      "item": "newexp:gold_enhanced_diamond_pickaxe"
+    },
+    {
+      "item": "newexp:gold_enhanced_diamond_shovel"
+    },
+    {
+      "item": "newexp:gold_enhanced_diamond_axe"
+    },
+    {
+      "item": "newexp:gold_enhanced_diamond_hoe"
+    },
+    {
+      "item": "newexp:gold_enhanced_diamond_sword"
+    },
+    {
+      "item": "newexp:gold_enhanced_diamond_helmet"
+    },
+    {
+      "item": "newexp:gold_enhanced_diamond_chestplate"
+    },
+    {
+      "item": "newexp:gold_enhanced_diamond_leggings"
+    },
+    {
+      "item": "newexp:gold_enhanced_diamond_boots"
+    },
+
+
+
+    {
+      "item": "newexp:diamond_enhanced_diamond_pickaxe"
+    },
+    {
+      "item": "newexp:diamond_enhanced_diamond_shovel"
+    },
+    {
+      "item": "newexp:diamond_enhanced_diamond_axe"
+    },
+    {
+      "item": "newexp:diamond_enhanced_diamond_hoe"
+    },
+    {
+      "item": "newexp:diamond_enhanced_diamond_sword"
+    },
+    {
+      "item": "newexp:diamond_enhanced_diamond_helmet"
+    },
+    {
+      "item": "newexp:diamond_enhanced_diamond_chestplate"
+    },
+    {
+      "item": "newexp:diamond_enhanced_diamond_leggings"
+    },
+    {
+      "item": "newexp:diamond_enhanced_diamond_boots"
+    },
+
+
+
+    {
+      "item": "newexp:netherite_enhanced_diamond_pickaxe"
+    },
+    {
+      "item": "newexp:netherite_enhanced_diamond_shovel"
+    },
+    {
+      "item": "newexp:netherite_enhanced_diamond_axe"
+    },
+    {
+      "item": "newexp:netherite_enhanced_diamond_hoe"
+    },
+    {
+      "item": "newexp:netherite_enhanced_diamond_sword"
+    },
+    {
+      "item": "newexp:netherite_enhanced_diamond_helmet"
+    },
+    {
+      "item": "newexp:netherite_enhanced_diamond_chestplate"
+    },
+    {
+      "item": "newexp:netherite_enhanced_diamond_leggings"
+    },
+    {
+      "item": "newexp:netherite_enhanced_diamond_boots"
+    },
+
+
+
+    {
+      "item": "newexp:endite_enhanced_diamond_pickaxe"
+    },
+    {
+      "item": "newexp:endite_enhanced_diamond_shovel"
+    },
+    {
+      "item": "newexp:endite_enhanced_diamond_axe"
+    },
+    {
+      "item": "newexp:endite_enhanced_diamond_hoe"
+    },
+    {
+      "item": "newexp:endite_enhanced_diamond_sword"
+    },
+    {
+      "item": "newexp:endite_enhanced_diamond_helmet"
+    },
+    {
+      "item": "newexp:endite_enhanced_diamond_chestplate"
+    },
+    {
+      "item": "newexp:endite_enhanced_diamond_leggings"
+    },
+    {
+      "item": "newexp:endite_enhanced_diamond_boots"
+    }
+  ],
+  "result": "minecraft:diamond"
+}

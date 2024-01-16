@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:story/smelt_iron",
+  "display": {
+    "icon": {
+      "item": "newexp:drill",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.story.drill.title"
+    },
+    "description": {
+      "translate": "advancements.story.drill.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "drill": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "newexp:drill"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "drill"
+    ]
+  ]
+}

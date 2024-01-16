@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#I#",
+    "#P#",
+    "#H#"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:wool"
+    },
+    "I": {
+      "item": "newexp:iron_nugget"
+    },
+    "P": {
+      "item": "newexp:syringe"
+    },
+    "H": {
+      "item": "newexp:bandage"
+    }
+  },
+  "result": {
+    "item": "newexp:small_medkit",
+    "count": 1
+  }
+}

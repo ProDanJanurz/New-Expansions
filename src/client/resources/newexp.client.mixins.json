@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "net.new_expansions.mixin.client",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "AnvilScreenMixin",
+    "ArmorFeatureRendererMixin",
+    "ClientPlayerEntityMixin",
+    "HeadFeatureRendererMixin",
+    "InGameHudMixin",
+    "InGameOverlayRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

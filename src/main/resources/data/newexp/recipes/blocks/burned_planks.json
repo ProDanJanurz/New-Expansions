@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "newexp:burned"
+    }
+  ],
+  "result": {
+    "item": "newexp:burned_planks",
+    "count": 4
+  }
+}

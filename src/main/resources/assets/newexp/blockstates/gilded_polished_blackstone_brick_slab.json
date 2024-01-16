@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "newexp:block/gilded_polished_blackstone_brick_slab"
+    },
+    "type=double": {
+      "model": "newexp:block/gilded_polished_blackstone_bricks"
+    },
+    "type=top": {
+      "model": "newexp:block/gilded_polished_blackstone_brick_slab_top"
+    }
+  }
+}

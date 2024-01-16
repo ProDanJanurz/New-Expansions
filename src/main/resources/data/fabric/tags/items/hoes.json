@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:emerald_hoe",
+    "newexp:endite_hoe",
+    "newexp:gold_enhanced_gold_hoe",
+    "newexp:gold_enhanced_diamond_hoe",
+    "newexp:gold_enhanced_netherite_hoe",
+    "newexp:gold_enhanced_endite_hoe",
+    "newexp:diamond_enhanced_gold_hoe",
+    "newexp:diamond_enhanced_diamond_hoe",
+    "newexp:diamond_enhanced_netherite_hoe",
+    "newexp:diamond_enhanced_endite_hoe",
+    "newexp:netherite_enhanced_gold_hoe",
+    "newexp:netherite_enhanced_diamond_hoe",
+    "newexp:netherite_enhanced_netherite_hoe",
+    "newexp:netherite_enhanced_endite_hoe",
+    "newexp:endite_enhanced_gold_hoe",
+    "newexp:endite_enhanced_diamond_hoe",
+    "newexp:endite_enhanced_netherite_hoe",
+    "newexp:endite_enhanced_endite_hoe",
+    "newexp:jeweled_hoe"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "newexp:nererite_ore",
+
+    "minecraft:netherite_block",
+    "minecraft:reinforced_deepslate"
+  ]
+}

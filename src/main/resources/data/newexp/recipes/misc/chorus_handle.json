@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  A",
+    " A ",
+    "A  "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:popped_chorus_fruit"
+    }
+  },
+  "result": {
+    "item": "newexp:chorus_handle",
+    "count": 2
+  }
+}

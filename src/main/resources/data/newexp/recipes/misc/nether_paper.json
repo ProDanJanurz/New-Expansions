@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "SSS",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:weeping_vines"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "minecraft:paper",
+    "count": 3
+  }
+}

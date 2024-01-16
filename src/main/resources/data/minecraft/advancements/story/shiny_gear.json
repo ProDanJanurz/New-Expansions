@@ -1,0 +1,94 @@
+{
+  "parent": "minecraft:story/mine_diamond",
+  "criteria": {
+    "diamond_boots": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:diamond_boots",
+              "newexp:gold_enhanced_diamond_boots",
+              "newexp:diamond_enhanced_diamond_boots",
+              "newexp:netherite_enhanced_diamond_boots",
+              "newexp:endite_enhanced_diamond_boots"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "diamond_chestplate": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:diamond_chestplate",
+              "newexp:gold_enhanced_diamond_chestplate",
+              "newexp:diamond_enhanced_diamond_chestplate",
+              "newexp:netherite_enhanced_diamond_chestplate",
+              "newexp:endite_enhanced_diamond_chestplate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "diamond_helmet": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:diamond_helmet",
+              "newexp:gold_enhanced_diamond_helmet",
+              "newexp:diamond_enhanced_diamond_helmet",
+              "newexp:netherite_enhanced_diamond_helmet",
+              "newexp:endite_enhanced_diamond_helmet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "diamond_leggings": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:diamond_leggings",
+              "newexp:gold_enhanced_diamond_leggings",
+              "newexp:diamond_enhanced_diamond_leggings",
+              "newexp:netherite_enhanced_diamond_leggings",
+              "newexp:endite_enhanced_diamond_leggings"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.story.shiny_gear.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:diamond_chestplate",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.story.shiny_gear.title"
+    }
+  },
+  "requirements": [
+    [
+      "diamond_helmet",
+      "diamond_chestplate",
+      "diamond_leggings",
+      "diamond_boots"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

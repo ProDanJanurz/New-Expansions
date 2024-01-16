@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "nnn",
+    "n n"
+  ],
+  "key": {
+    "n": {
+      "item": "newexp:iron_rings"
+    }
+  },
+  "result": {
+    "item": "chainmail_helmet",
+    "count": 1
+  }
+}

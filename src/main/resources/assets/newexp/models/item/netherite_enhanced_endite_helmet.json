@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "newexp:item/upgrades/netherite_enhanced_endite_helmet"
+  }
+}
