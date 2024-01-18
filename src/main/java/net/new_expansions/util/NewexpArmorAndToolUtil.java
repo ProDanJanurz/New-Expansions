@@ -7,21 +7,6 @@ import net.new_expansions.items.equipment.NewexpArmorItem;
 
 public class NewexpArmorAndToolUtil {
 	public static void repair(ItemStack stack, int speed, int regenAmount){
-		/*
-		while(regenAmount >= speed){
-			int temp = stack.getDamage();
-			if(stack.getDamage() > 1){
-				temp -= 2;
-				stack.setDamage(temp);
-				regenAmount = 0;
-			}else{
-				temp -= 1;
-				stack.setDamage(temp);
-				regenAmount = 0;
-			}
-		}
-		
-		 */
 		if(regenAmount >= speed){
 			stack.setDamage(stack.getDamage() - 1);
 		}
